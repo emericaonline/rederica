@@ -1,3 +1,4 @@
 # rederica
 
-Reddit client application built using swift without nibs or storyboards.
+Reddit client application built for fun using swift without nibs or storyboards.
+Heavily inspired by Alien Blue
